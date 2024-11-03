@@ -37,7 +37,8 @@ The following UML diagrams illustrate the structure and interactions of the desi
 
 - Class Diagram: Represents the relationships between classes such as `Recipe`, `RecipeManager`, and `NotificationService`.
 - Sequence Diagram: Demonstrates the flow of operations when a user adds a new recipe, highlighting the interaction between components.
-
+  
+### Class Diagram
 ![Class Diagram](images/class-diagram.png)
 
 ### Sequence Diagram
