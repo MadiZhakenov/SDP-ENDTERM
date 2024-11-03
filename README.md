@@ -23,7 +23,6 @@ The application demonstrates the following design patterns:
 
 ### Structural Patterns:
 
-- **Facade**: Simplifies interactions with the complex subsystems of recipe management and notifications, providing a unified interface for users.
 - **Composite**: Used for handling ingredients, allowing a mix of individual and composite ingredients in a recipe, making it easier to manage complex ingredient structures.
 - **Decorator**: Adds functionality to the `Recipe` class dynamically (e.g., adding spicy or vegan variations) without modifying the original class structure.
 
@@ -38,7 +37,10 @@ The following UML diagrams illustrate the structure and interactions of the desi
 
 - Class Diagram: Represents the relationships between classes such as `Recipe`, `RecipeManager`, and `NotificationService`.
 - Sequence Diagram: Demonstrates the flow of operations when a user adds a new recipe, highlighting the interaction between components.
-(Note: Insert UML diagrams here as images or links)
+![Class Diagram](images/class-diagram.png)
+
+### Sequence Diagram
+![Sequence Diagram](images/sequence-diagram.png)
 
 ## Usage Instructions
 
