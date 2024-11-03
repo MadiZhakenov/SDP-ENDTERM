@@ -44,8 +44,8 @@ The following UML diagrams illustrate the structure and interactions of the desi
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/recipe-sharing-platform.git
-   cd recipe-sharing-platform
+   git clone https://github.com/MadiZhakenov/SDP-ENDTERM.git
+   cd SDP-ENDTERM
    
 2. **Open the Application**: 
    Open `index.html`, `recipes.html`, or `profile.html` in a web browser.
